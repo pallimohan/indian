@@ -26,7 +26,7 @@ body {
 }
 
 .logo-image {
-    width: 15%;
+    width: 20%;
 
 }
 
@@ -40,10 +40,10 @@ body {
 }
 
 .a {
-    text-decoration: none;
-    color: aqua;
+   text-decoration: none;
+    color: rgb(7, 12, 12);
     border: none;
-   
+    font-size: 20px;
     transition: color 0.4s, border 0.4s;
 }
 
